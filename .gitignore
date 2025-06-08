@@ -1,2 +1,10 @@
 venv/
+.DS_Store
+*.db
+__pycache__/
+*.pyc
+*.pyo
 
+# Keep sample CSV but ignore other reports
+reports/
+!store_report_sample.csv
