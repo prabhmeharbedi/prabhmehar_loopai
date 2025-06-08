@@ -5,6 +5,8 @@ from ..core.database import get_db
 from ..core.report_service import trigger_report_generation, get_report_status
 import os
 
+#  I have implemented fast api
+
 app = FastAPI(title="LoopAI - Store Monitoring")
 
 @app.post("/trigger_report")
