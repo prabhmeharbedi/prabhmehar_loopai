@@ -55,7 +55,7 @@ store_id,uptime_last_hour,uptime_last_day,uptime_last_week,downtime_last_hour,do
 
 Sample CSV output: [store_report_sample.csv](./store_report_sample.csv)
 
-## 🔧 Architecture
+## Architecture
 
 ```
 API Layer (FastAPI)
